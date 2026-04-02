@@ -11,3 +11,6 @@
   "primaryTokenAttribute": "resources.hp",
   "secondaryTokenAttribute": "resources.mp"
 }
+"url": "https://github.com/azuregrimo/Digimon-Digital-Adventure-v2.0",
+"manifest": "https://raw.githubusercontent.com/azuregrimo/digimon-system/main/system.json",
+"download": "https://github.com/azuregrimo/digimon-system/archive/refs/heads/main.zip"
