@@ -1,0 +1,27 @@
+
+{
+  "Actor": {
+    "types": ["tamer", "digimon"],
+    "templates": {
+      "attributes": {
+        "power": 0,
+        "defense": 0,
+        "speed": 0,
+        "mind": 0,
+        "body": 0
+      }
+    },
+    "digimon": {
+      "templates": ["attributes"],
+      "combat": {
+        "attack": 0,
+        "defense": 0,
+        "initiative": 0
+      },
+      "bond": { "value": 0 }
+    },
+    "tamer": {
+      "templates": ["attributes"]
+    }
+  }
+}
